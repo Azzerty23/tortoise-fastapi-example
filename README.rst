@@ -9,3 +9,11 @@ Usage
 .. code-block:: sh
 
     uvicorn main:app --reload
+
+
+Run tests
+---------
+
+.. code-block:: sh
+
+    pytest _tests.py
